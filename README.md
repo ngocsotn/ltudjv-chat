@@ -15,8 +15,6 @@
 -   Lưu tài khoản đăng ký người dùng vào DB.
 -   Server có ghi log từng client lại.
 
-#### Link xem trực tuyến trên YouTube có thuyết trình về setup project và chạy: https://youtu.be/G2tBgJnHybo
-
 #### hướng dẫn setup step-by-step (hướng dẫn step-by-step có hình ảnh ở file README.pdf):
 
 -   Khởi động server, nhập các thông tin kết nối DB: IP, DB_Port, DB_name, DB_username, DB_password, nhập cổng host cho các client.
